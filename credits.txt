@@ -1,0 +1,71 @@
+Third-party assets used in The Hollow Games
+
+Graveyard Kit (5.0) by Kenney - www.kenney.nl
+License: Creative Commons Zero (CC0) - http://creativecommons.org/publicdomain/zero/1.0/
+Used for: Risen (character-zombie), Ghost (character-ghost), Stitched (character-skeleton),
+tribute stand-in (character-keeper), pumpkins, lamp posts, and cemetery props.
+
+Poly Haven (polyhaven.com) - CC0
+Models: gothic_statue, large_iron_gate, street_lamp_01, dead_tree_trunk, dead_tree_trunk_02,
+rock_moss_set_01, stone_fire_pit. Textures: castle_wall_slates, cobblestone_floor_08,
+cobblestone_large_01, brown_mud_leaves_01, black_painted_planks, ceramic_roof_01.
+
+Impact Sounds and RPG Audio by Kenney (www.kenney.nl) - CC0
+Used for: arrow hits, player hits, wall hits, footsteps, sponsor bell, gate slam, house creaks.
+
+"HAUNTED MANSION" by n-malmberg (Sketchfab) - CC BY 4.0, credit required
+https://sketchfab.com/3d-models/haunted-mansion-94e1f8e882014d95a0ab14f195372443
+Used for the houses on Hollow Lane (textures downscaled to 2K).
+
+Zombie animations from Mixamo (mixamo.com) "Scary Zombie Pack".
+
+Sounds from Pixabay (Pixabay Content License, no attribution required):
+"arrow twang 01" and "arrow swish 03" by djartmusic; zombie groans cut from "zombie sound 2"
+by dragon-studio and "zombie groan" / "zombie moaning" by freesound_community.
+Risen.fbx - "zombie monster slasher necromorph" by wojciechmiedziocha (Sketchfab), CC BY 4.0, credit required
+https://sketchfab.com/3d-models/d2f9be4f379a410f8c88745921bde6a0
+Textures downscaled to 2K.
+
+Fonts (Assets/Fonts), SIL Open Font License 1.1:
+Creepster by Font Diner; Cinzel by Natanael Gama.
+
+Mixamo (mixamo.com): Yaku J Ignite, Zombiegirl W Kurniawan, Copzombie L Actisdato (the Risen),
+Erika Archer With Bow/Arrow (the tribute), Pro Longbow Pack and Scary Zombie Pack animations.
+
+"Nun" by Muru (Sketchfab) - CC BY 4.0 - the Abbess
+"Ghost in a white sheet" by 66md66 (Sketchfab) - CC BY 4.0 - the ghosts
+
+Horror sounds and music from Pixabay (Pixabay Content License, no attribution required):
+"Missa Tenebrarum" by HorrorStreamingGR (boss music); "Halloween Mass" by EchoGateStudios (menu music);
+zombie and ghost deaths by DRAGON-STUDIO, freesound_community and 666HeroHero; flesh hits, body fall,
+cannon, horror hit and creature reveal by Universfield; wind and crowd by SoundReality and
+freesound_community; church bell by gargamel10; rumble by TheMediaGuy; fire by sdanezis,
+SoundReality and GregorQuendel; tribute hurt sounds by freesound_community.
+The Abbess: evil witch laugh and dramatic death collapse by Universfield; scream by Virtual_Vibes (Dilip);
+her voice lines made with macOS text-to-speech, pitched down and layered with ffmpeg.
+Stadium crowd: "Crowd Cheering in Stadium" by vishiv and "Stadium Roar (concert)" by MrMark81 (Pixabay),
+made distant with ffmpeg (filtered and echoed).
+
+Graveyard, arena and sponsor-drop models from Sketchfab, all CC BY 4.0 (credit required),
+converted for Unity with Tools/glb_to_unity.py:
+"gravestone pack" by Tardis121; "Tombstones" by Tiago Lopes; "Candles and Tombstones" by N01516;
+"Angel (old marble version)" by SebastianSosnowski; "Old tree" by evolveduk; "Pile of Skulls" by Abimael Gonzalez;
+"Gothic Lantern (Mnemolli concept)" by romasharf; "Roman Colosseum Arch Ring - Marble" by LanaGre;
+"Broken Medieval column set" by Sousinho; "Medieval Brazier" by Sky_Hunter;
+"Medieval Fantasy - Spear Rack Asset" by Scott VanArsdale; "Army Parachute" by amaraklov;
+"Military crate (game ready with open system)" by Killian_Delias; "Leather boots" by KIFIR;
+"Power Amulet" by Benz; "Long bow, quiver and target" by Gnossiennes; "CC0 - Wooden Arrow" by plaggy.
+
+Hollow Lane houses and props from Sketchfab, CC BY 4.0 (credit required):
+"{X}-Ghosthouse-['South']" by -X-ScornGames; "Abandoned Gothic House" by Thomas Andris;
+"Victorian house" by massive-graphisme; "Abandoned House" by Sengchor; "Funeral carriage" by Tristan Miles.
+Zone gates from Sketchfab, CC BY 4.0: "Gates of Hell" by Alan Zimmerman (photo scan of Rodin's sculpture);
+"Epic Alien Temple Door (animated)" by Jungle Jim.
+The Hollow Heart, Sketchfab, CC BY 4.0: "Previz-Lowpoly Colosseum with concept textures." by Neberkenezer
+(corridor cut and seats mapped with Tools/colosseum_layout.py); the crowd from "WIP - Lowpoly People - 2" by Loic Norgeot;
+"Stonehorn Fiend Ghost 3d model free" by iRahulRajput (the stone statues at the arena gates).
+"ZOMBIE HAND" by Colin.Greenall (the grave hands), Sketchfab, CC BY 4.0.
+"Blood Vial (Bloodborne)" by sunkendemon (the Healing Draught), Sketchfab, CC BY 4.0.
+Mixamo: the Abbess is the Sketchfab nun rigged with Mixamo's auto-rigger; the Stonehorn brute is Warrok W Kurniawan
+with Mutant animations.
+Mixamo: Female Locomotion Pack, Running and Running Backward (in place) for the tribute's movement.
